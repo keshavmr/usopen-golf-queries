@@ -1,0 +1,1 @@
+# usopen-golf-queries
